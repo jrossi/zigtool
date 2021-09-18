@@ -1,3 +1,3 @@
-module github.com/dosgo/zigtool
+module github.com/jrossi/zigtool
 
 go 1.17
